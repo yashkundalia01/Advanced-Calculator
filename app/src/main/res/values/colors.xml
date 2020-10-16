@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#24B3B8</color>
+    <color name="colorPrimaryDark">#1FA8A4</color>
+    <color name="colorAccent">#096BD5</color>
+    <color name="colorRestart">#DF0909</color>
+
+    <color name="Black_Th_number_pad">#000000</color>
+    <color name="Black_Th_other_pad">#131313</color>
+
+    <color name="Blue_Th_number_pad">#022850</color>
+    <color name="Blue_Th_other_pad">#1A50A1</color>
+
+    <color name="Purple_Th_number_pad">#342395</color>
+    <color name="Purple_Th_other_pad">#544CCC</color>
+
+    <color name="Orange_Th_number_pad">#D54E24</color>
+    <color name="Orange_Th_other_pad">#EA7231</color>
+
+</resources>

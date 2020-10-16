@@ -1,0 +1,18 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceCategory
+        android:gravity="center"
+        android:shadowColor="#36A687"
+        android:textColor="#239A96"
+        android:textColorHint="#FFFFFF"
+        android:textSize="30sp"
+        android:title="Theme">
+
+        <ListPreference
+            android:defaultValue="true"
+            android:entries="@array/settings_theme_labels"
+            android:entryValues="@array/settings_theme_values"
+            android:key="theme_key"
+            android:title="Select Theme" />
+    </PreferenceCategory>
+</PreferenceScreen>
